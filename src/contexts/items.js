@@ -27,7 +27,9 @@ const find = (items, name) => {
   let foundItem;
   for (const [type, details] of Object.entries(typeConfig())) {
     for (const item of items[type]) {
-      if (item[details.name_key] === name) {
+      if (item[details.name_key] === name
+        && item.links === 0) {
+        //console.log(item);
         foundItem = item;
         foundItem.type = type;
         break;

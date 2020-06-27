@@ -37,6 +37,51 @@ export const comparisons = () => {
     ],
     "Divination cards vs. outcome": [
       {
+        name: "Rigwald's Quills",
+        base: ["Rigwald's Quills"],
+        compare: [
+          "The Wolven King's Bite",
+          "The Wolven King's Bite",
+          "The Wolven King's Bite",
+          "The Wolven King's Bite",
+          "The Wolven King's Bite",
+          "The Wolven King's Bite",
+          "The Wolven King's Bite",
+          "The Wolven King's Bite",
+        ],
+      },
+      {
+        name: "The Poet's Pen",
+        base: ["The Poet's Pen"],
+        compare: [
+          "A Dab of Ink",
+          "A Dab of Ink",
+          "A Dab of Ink",
+          "A Dab of Ink",
+          "A Dab of Ink",
+          "A Dab of Ink",
+          "A Dab of Ink",
+          "A Dab of Ink",
+          "A Dab of Ink",          
+        ],
+      },
+      {
+        name: "Atziri's Disfavour",
+        base: ["Atziri's Disfavour"],
+        compare: [
+          "The Last One Standing",
+          "The Last One Standing",
+          "The Last One Standing",
+          "The Last One Standing",
+          "The Last One Standing",
+          "The Last One Standing",
+          "The Last One Standing",
+          "The Last One Standing",
+          "The Last One Standing",
+          "The Last One Standing",
+        ],
+      },
+      {
         name: "The Hoarder (Exalted Orb)",
         base: ["Exalted Orb"],
         compare: [
